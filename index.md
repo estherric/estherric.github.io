@@ -18,4 +18,4 @@ My GitHub page is http://github.com/estherric.
 
 * Lab 7
 
-    Lab 7, part 2, was also a favorite of mine since we had to deal with more variables and restrictions. First, we got a piece of paper and wrote each condition for each street. The diagram helped me concoct a clean if statement exhibiting whether one can park on the street. Specificallym the function "CanParkOnAsh" validates that we cannot park on Wednesday from 10 a.m. to 12 p.m.
+    Lab 7, part 2, was also a favorite of mine since we had to deal with more variables and restrictions. First, we got a piece of paper and wrote each condition for each street. The diagram helped me concoct a clean if statement exhibiting whether one can park on the street. Specifically, the function "CanParkOnAsh" validates that we cannot park on Wednesday from 10 a.m. to 12 p.m.
